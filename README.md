@@ -1,5 +1,5 @@
 
-<p><img align="center" src="https://user-images.githubusercontent.com/44911576/157039260-e5d40a62-c5f3-40cb-aab7-208a6aecd85c.jpg" width="1000" height="400" /></p>
+<p><img align="center" src="https://user-images.githubusercontent.com/44911576/157040890-9cf2a04d-3553-4aa5-9edd-4ae744aa2016.jpg" width="1000" height="400" /></p>
 
 <h1 align="center">Hi 👋, I'm Bryton</h1>
 <h3 align="center">A passionate web developer and cyber security from France</h3>
@@ -9,6 +9,8 @@ currently in my first year of higher education at ESGI I have been passionate ab
 I am mainly self-taught and I work as a web developer at Datamix.io. I am also passionate about computer security and low level development.
 
 <h3 align="left">Languages and Tools:</h3>
+
+<p><img align="right" src="https://user-images.githubusercontent.com/44911576/157040989-f692cd66-daff-4cd9-9950-455af8490ead.jpg" width="300" height="200" /></p>
 
 <h2 align="left">Programming Languages </h2>
 <p align="left">
