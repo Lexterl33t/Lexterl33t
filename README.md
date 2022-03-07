@@ -8,6 +8,16 @@ My name is Bryton,
 currently in my first year of higher education at ESGI I have been passionate about computers since I was very young. 
 I am mainly self-taught and I work as a web developer at Datamix.io. I am also passionate about computer security and low level development.
 
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lexterl33t&layout=compact" />
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=Lexterl33t&show_icons=true&theme=radical" />
+
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p><img align="right" src="https://user-images.githubusercontent.com/44911576/157040989-f692cd66-daff-4cd9-9950-455af8490ead.jpg" width="300" height="200" /></p>
