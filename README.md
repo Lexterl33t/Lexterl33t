@@ -8,6 +8,8 @@ My name is Bryton,
 currently in my first year of higher education at ESGI I have been passionate about computers since I was very young. 
 I am mainly self-taught and I work as a web developer at Datamix.io. I am also passionate about computer security and low level development.
 
+  
+📫 How to reach me bryton@datamix.io
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lexterl33t&layout=compact" />
 <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=Lexterl33t&show_icons=true&theme=radical" />
