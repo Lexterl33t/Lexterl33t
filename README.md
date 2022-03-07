@@ -1,5 +1,5 @@
 
-<p><img align="center" src="https://user-images.githubusercontent.com/44911576/157039260-e5d40a62-c5f3-40cb-aab7-208a6aecd85c.jpg" width="1000" height="420" /></p>
+<p><img align="center" src="https://user-images.githubusercontent.com/44911576/157039260-e5d40a62-c5f3-40cb-aab7-208a6aecd85c.jpg" width="1000" height="400" /></p>
 
 <h1 align="center">Hi 👋, I'm Bryton</h1>
 <h3 align="center">A passionate web developer and cyber security from France</h3>
