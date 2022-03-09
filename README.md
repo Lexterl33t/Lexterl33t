@@ -78,7 +78,9 @@ I am mainly self-taught and I work as a web developer at Datamix.io. I am also p
 <h2 align="left">Devops </h2>
 <p align="left"> 
   
-  
+<p><img align="right" src="https://user-images.githubusercontent.com/44911576/157536837-5c5845fa-7935-4dbe-babb-c1c246de2543.gif" width="300" height="200" /></p>
+
+
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
   
