@@ -2,11 +2,11 @@
 <p><img align="center" src="https://user-images.githubusercontent.com/44911576/162179398-551188c1-da72-49c7-8381-41f0cac71c7f.jpeg" width="1000" height="500" /></p>
 
 <h1 align="center">Hi 👋, I'm Bryton</h1>
-<h3 align="center">A passionate web developer and cyber security from France</h3>
+<h3 align="center">A passionate web developer, cyber security and dev blockchain from France</h3>
 
 My name is Bryton, 
 currently in my first year of higher education at ESGI I have been passionate about computers since I was very young. 
-I am mainly self-taught and I work as a web developer at Datamix.io. I am also passionate about computer security and low level development.
+I am mainly self-taught and I work as a web developer at Datamix.io. I am also passionate about computer security, blochain and development.
 
   
 📫 How to reach me bryton@datamix.io
