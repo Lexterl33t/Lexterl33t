@@ -6,7 +6,7 @@
 
 My name is Bryton, 
 currently in my first year of higher education at ESGI I have been passionate about computers since I was very young. 
-I am mainly self-taught and I work as a web developer at Datamix.io. I am also passionate about computer security, blochain and development.
+I am mainly self-taught and I work as a web developer at Datamix.io. I am also passionate about computer security, blockchain and development.
 
   
 📫 How to reach me bryton@datamix.io
