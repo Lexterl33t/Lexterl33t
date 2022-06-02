@@ -85,8 +85,6 @@ I am mainly self-taught and I work as a web developer at Datamix.io. I am also p
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
   
   
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
   
   
 <h2 align="left">Other </h2>
@@ -99,12 +97,7 @@ I am mainly self-taught and I work as a web developer at Datamix.io. I am also p
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   
 
-<h1 align="center">Description</h1>
-<h3 align="center">My Profil</h3>
 
-<h3 align="left">Situation :</h3>
-<h4 align="left">With a girl cat ^^</h4>
-<p><img align="left" src="https://user-images.githubusercontent.com/94532496/154979135-69057351-8fb2-4868-b64d-4293d7907abf.gif" width="200" height="200" /></p>
 
 
 
